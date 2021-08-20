@@ -3551,18 +3551,18 @@ figcaption {
 
 .section.my-story {
   overflow: visible;
-  padding-bottom: 125px;
+  padding-bottom: 80px;
 }
 
 .section.skills {
-  padding-top: 125px;
-  padding-bottom: 125px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .section.experience {
   overflow: visible;
-  padding-top: 125px;
-  padding-bottom: 125px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .section.about-testimonials {
@@ -3609,12 +3609,12 @@ figcaption {
 
 .section.contact {
   padding-top: 60px;
-  padding-bottom: 125px;
+  padding-bottom: 80px;
 }
 
 .section.faqs {
-  padding-top: 125px;
-  padding-bottom: 129px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .section.changelog {
