@@ -1,9 +1,9 @@
 .logo-container {
   display: flex;
   align-items: center;
-  color: #7051ef;
+  color: #000;
   font-size: 32px;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .logo-link {
@@ -11,9 +11,10 @@
 }
 
 .alt-header-logo {
-  width: 75px;
-  height: 75px;
-  font-size: 36px;
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  font-stretch:extra-condensed;
   background-color: #7051ef;
   border-radius: 28%;
   color: #fff;
@@ -24,6 +25,12 @@
 
 .logo-fullname {
   display: none;
+}
+
+.the-period {
+  font-family: serif;
+  color: #7051ef;
+  font-size: 48px;
 }
 
 .github-link {
@@ -3495,8 +3502,8 @@ figcaption {
 
 .section {
   overflow: hidden;
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .section.hero {
