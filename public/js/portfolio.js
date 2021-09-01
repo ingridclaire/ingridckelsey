@@ -10,7 +10,7 @@ const animateHeader = () => {
       rolesContainer.innerText = whoAmI[i];
     }
     i++;
-  }, 2000)
+  }, 1000)
 }
 
 animateHeader();

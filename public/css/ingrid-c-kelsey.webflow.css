@@ -6,6 +6,10 @@
   font-weight: 500;
 }
 
+.header.w-nav {
+  background-color: lavender;
+}
+
 .logo-link {
   margin-right: 20px;
 }
