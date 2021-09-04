@@ -13,7 +13,7 @@ const animateHeader = () => {
   }, 1000)
 }
 
-animateHeader();
+setTimeout(animateHeader, 1500);
 
 
 
