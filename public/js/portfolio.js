@@ -2,7 +2,7 @@
 const animateHeader = () => {
   const whoAmI = ['web developer', 'shopify partner', 'javascript tutor'];
   const rolesContainer = document.getElementById('who-am-i');
-    rolesContainer.innerText = whoAmI[1];
+    rolesContainer.innerText = whoAmI[0];
   let i = 1;
   let interval = setInterval(() => {
     i = i >= whoAmI.length ? 0 : i;
