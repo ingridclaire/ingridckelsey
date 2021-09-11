@@ -8,7 +8,9 @@ const projects = [
     deliverables: ['complete website', 'database design', 'ui screens', 'ux flow'],
     website: 'www.doulasbythebay.com',
     github: '',
-    id: '1',
+    id: '1',   
+    laptopImg: "https://ingridckelsey.s3.us-east-2.amazonaws.com/doula-laptop.png",
+    mobileImg: "https://ingridckelsey.s3.us-east-2.amazonaws.com/doula-mobile.png",
     image: "https://ingridckelsey.s3.us-east-2.amazonaws.com/doulas-site.png",
     description: 'Fully responsive site I built from scratch, complete with admin login functionality so that the database of doulas can be updated.'
   },
@@ -23,6 +25,8 @@ const projects = [
     github: '',
     id: '2',
     image: 'https://ingridckelsey.s3.us-east-2.amazonaws.com/illustrated-enby-screenshot.png',
+    laptopImg: "https://ingridckelsey.s3.us-east-2.amazonaws.com/doula-laptop.png",
+    mobileImg: "https://ingridckelsey.s3.us-east-2.amazonaws.com/doula-mobile.png",
     description: "This Shopify store highlights the artist's original work, and makes prints available as well."
   }
 ]

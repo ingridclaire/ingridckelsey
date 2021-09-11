@@ -25,7 +25,7 @@ const renderProject = (proj) => {
       <h4 class="title about-project">Website</h4>
       <a href=${proj.website}>Visit website</a>
     </div>
-  </div><img src=${proj.image} style="-webkit-transform:translate3d(0, 60PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 60PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 60PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 60PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" data-w-id="04c2e4fa-80b9-f62b-1191-f78c28c70cee" alt="" class="image portfolio-project-image">
+  </div><img src=${proj.laptopImg} style="-webkit-transform:translate3d(0, 60PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 60PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 60PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 60PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" data-w-id="04c2e4fa-80b9-f62b-1191-f78c28c70cee" alt="" class="image portfolio-project-image">
   <div class="portfolio-project-about-wrapper">
     <div class="portfolio-project-about project-overview">
       <div class="split-content portfolio-project-about-left">
