@@ -32,6 +32,29 @@ const projects = [
 ]
 
 const testimonials = [
-
+  {
+    name: "Christian R.",
+    role: "JavaScript/React student",
+    content: "Ingrid is SUPER knowledgeable and goes the extra mile to help out. She is a rockstar and I really wouldn't have been as successful as I was in my JavaScript bootcamp course without her in my corner. 100% recommend if you need help with understanding basic through advanced JavaScript concepts.",
+    img: "images/testimonial_christian.jpg"
+  },
+  {
+    name: "Christian R.",
+    role: "JavaScript/React student",
+    content: "Ingrid is SUPER knowledgeable and goes the extra mile to help out. She is a rockstar and I really wouldn't have been as successful as I was in my JavaScript bootcamp course without her in my corner. 100% recommend if you need help with understanding basic through advanced JavaScript concepts.",
+    img: "images/testimonial_christian.jpg"
+  },
+  {
+    name: "Christian R.",
+    role: "JavaScript/React student",
+    content: "Ingrid is SUPER knowledgeable and goes the extra mile to help out. She is a rockstar and I really wouldn't have been as successful as I was in my JavaScript bootcamp course without her in my corner. 100% recommend if you need help with understanding basic through advanced JavaScript concepts.",
+    img: "images/testimonial_christian.jpg"
+  },
+  {
+    name: "Christian R.",
+    role: "JavaScript/React student",
+    content: "Ingrid is SUPER knowledgeable and goes the extra mile to help out. She is a rockstar and I really wouldn't have been as successful as I was in my JavaScript bootcamp course without her in my corner. 100% recommend if you need help with understanding basic through advanced JavaScript concepts.",
+    img: "images/testimonial_christian.jpg"
+  },
 ]
 
