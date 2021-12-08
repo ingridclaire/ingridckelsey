@@ -9,7 +9,7 @@ const animateHeader = () => {
       rolesContainer.innerText = whoAmI[i];
     }
     i++;
-  }, 1000)
+  }, 1500)
 }
 
 setTimeout(animateHeader, 1000);
