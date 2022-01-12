@@ -40,51 +40,9 @@ const renderFooter = () => {
         <a href="https://www.github.com/ingridclaire" target="_blank" class="social-media-link linkedin small w-inline-block github-link"><i class="fab fa-github-alt"></i></a>
       </div>
     </div>
-    <div class="nav-menu-footer-wrapper">
-      <div data-w-id="7b366259-00cf-3fe2-ff6d-fb5db74e2df9" class="nav-menu-footer">
-        <div class="nav-menu-footer-title">Nav</div>
-        <div class="nav-menu-footer-grid">
-          <ul role="list" class="list-footer w-list-unstyled">
-            <li class="footer-list-item">
-              <a href="index.html" aria-current="page" class="footer-link w--current">Home</a>
-            </li>
-            <li class="footer-list-item">
-              <a href="about.html" class="footer-link">About</a>
-            </li>
-            <li class="footer-list-item">
-              <a href="contact.html" class="footer-link">Contact</a>
-            </li>
-            <li class="footer-list-item">
-              <a href="portfolio.html" class="footer-link">Portfolio</a>
-            </li>
-          </ul>
-        </div>
-      </div>
+    
 
-      <div data-w-id="b00f1cd5-474c-e6e9-6650-b300d7776bf4" class="nav-menu-footer">
-        <div class="nav-menu-footer-title">Utility Pages</div>
-        <ul role="list" class="list-footer w-list-unstyled">
-          <li class="footer-list-item">
-            <a href="styleguide.html" class="footer-link">Styleguide</a>
-          </li>
-          <li class="footer-list-item">
-            <a href="start-here.html" class="footer-link">Start Here</a>
-          </li>
-          <li class="footer-list-item">
-            <a href="https://designertemplate.webflow.io/404" class="footer-link">404 Not Found</a>
-          </li>
-          <li class="footer-list-item">
-            <a href="https://designertemplate.webflow.io/401" class="footer-link">Password Protected</a>
-          </li>
-          <li class="footer-list-item">
-            <a href="licenses.html" class="footer-link">Licenses</a>
-          </li>
-          <li class="footer-list-item">
-            <a href="changelog.html" class="footer-link">Changelog</a>
-          </li>
-        </ul>
-      </div>
-    </div>
+   
   </div>
   <div data-w-id="70cf9c9c-7f53-328d-f5c4-55ca3675c3fe" class="small-print copyright">Copyright © Ingrid C Kelsey 2021</div>
 </div>`

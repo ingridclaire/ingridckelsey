@@ -1,5 +1,5 @@
 const animateHeader = () => {
-  const whoAmI = ['web developer', 'shopify partner', 'javascript tutor'];
+  const whoAmI = ['software engineer', 'web developer', 'shopify partner', 'javascript tutor', 'unicorn'];
   const rolesContainer = document.getElementById('who-am-i');
     rolesContainer.innerText = whoAmI[0];
   let i = 1;
